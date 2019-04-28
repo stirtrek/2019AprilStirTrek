@@ -8,6 +8,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 
 *Add your sessions here, in alphabetical order by session title*
 
+- [Cloud Design Patterns](talks/SteveSmith-CloudDesignPatterns.pdf) by [Steve Smith (@ardalis)](https://twitter.com/ardalis)
 - [What's New in C#?](talks/BrendanEnrick-NewInCSharp-Slides.pdf) by [Brendan Enrick (@Brendoneus)](https://twitter.com/brendoneus)
 
 ## Stir Trek 2018 Reviews
