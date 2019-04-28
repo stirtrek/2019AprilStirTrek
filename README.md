@@ -1,12 +1,14 @@
 # 2019 April Stir Trek - Avengers Endgame
 
-Slides and materials from Stir Trek 2018 Avengers Endgame Edition
+Slides and materials from Stir Trek 2019 Avengers Endgame Edition
 
 All presentations were recorded and will be available on the [Stir Trek YouTube Channel](https://youtube.com/c/stirtrek).
 
 # Sessions by Title
 
 *Add your sessions here, in alphabetical order by session title*
+
+- [What's New in C#?](talks/BrendanEnrick-NewInCSharp-Slides.pdf) by [Brendan Enrick (@Brendoneus)](https://twitter.com/brendoneus)
 
 ## Stir Trek 2018 Reviews
 
