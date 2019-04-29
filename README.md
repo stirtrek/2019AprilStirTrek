@@ -9,6 +9,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 *Add your sessions here, in alphabetical order by session title*
 
 - [Cloud Design Patterns](talks/SteveSmith-CloudDesignPatterns.pdf) by [Steve Smith (@ardalis)](https://twitter.com/ardalis)
+- [Integrating Junior Developers Into Your Team](talks/RobinClower-IntegratingJuniorDevelopersIntoYourTeam.pdf) by Robin Clower
 - [Measure All the Things](talks/NickMartin-MeasureAllTheThings.zip) by [Nick Martin (@nickoncode)](https://twitter.com/nickoncode)
 - [What's New in C#?](talks/BrendanEnrick-NewInCSharp-Slides.pdf) by [Brendan Enrick (@Brendoneus)](https://twitter.com/brendoneus)
 
