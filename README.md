@@ -11,6 +11,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 - [Accessibility: What is it, Why Care about it, and How to do it](talks/JackMerideth-Accessibility.pdf) by Jack Merideth
 - [Cloud Design Patterns](talks/SteveSmith-CloudDesignPatterns.pdf) by [Steve Smith (@ardalis)](https://twitter.com/ardalis)
 - Did You Get My Message? ([slides](talks/jack-bennett-did-you-get-my-message-stirtrek-2019-04-26.pdf)) ([demos](talks/jack_bennett_did_you_get_my_message_20190426.zip)) by [Jack Bennett (@jackbennett_co)](https://twitter.com/jackbennett_co)
+- [Event-Driven Architecture, Micro-Services, and the Cloud](talks/ShawnWallace-EventDrivenArchitecture) by [Shawn Wallace (@shawnwallace)](https://twitter.com/shawnwallace)
 - [Health: The Most Important Tech Tool](talks/CassandraFaris-HealthTheMostImportantTechTool.md) by [Cassandra Faris (@cassandrafaris)](https://twitter.com/cassandrafaris)
 - [Integrating Junior Developers Into Your Team](talks/RobinClower-IntegratingJuniorDevelopersIntoYourTeam.pdf) by Robin Clower
 - [Measure All the Things](talks/NickMartin-MeasureAllTheThings.zip) by [Nick Martin (@nickoncode)](https://twitter.com/nickoncode)
