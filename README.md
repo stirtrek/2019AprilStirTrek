@@ -9,9 +9,10 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 *Add your sessions here, in alphabetical order by session title*
 
 - [Accessibility: What is it, Why Care about it, and How to do it](talks/JackMerideth-Accessibility.pdf) by Jack Merideth
+- [ASP.NET Core Ready for Prime Time](talks/JTower-AspNetCorePrimetime.zip) by J Tower
 - [Cloud Design Patterns](talks/SteveSmith-CloudDesignPatterns.pdf) by [Steve Smith (@ardalis)](https://twitter.com/ardalis)
-- [Did You Get My Message? - slides](talks/jack-bennett-did-you-get-my-message-stirtrek-2019-04-26.pdf) by [Jack Bennett (@jackbennett_co)](https://twitter.com/jackbennett_co)
-- [Did You Get My Message? - demo code](talks/jack_bennett_did_you_get_my_message_20190426.zip) by [Jack Bennett (@jackbennett_co)](https://twitter.com/jackbennett_co)
+- Did You Get My Message? ([slides](talks/jack-bennett-did-you-get-my-message-stirtrek-2019-04-26.pdf)) ([demos](talks/jack_bennett_did_you_get_my_message_20190426.zip)) ([screencast](https://youtu.be/LlF9x1MGbSw)) by [Jack Bennett (@jackbennett_co)](https://twitter.com/jackbennett_co)
+- [Event-Driven Architecture, Micro-Services, and the Cloud](talks/ShawnWallace-EventDrivenArchitecture.pdf) by [Shawn Wallace (@shawnwallace)](https://twitter.com/shawnwallace)
 - [Health: The Most Important Tech Tool](talks/CassandraFaris-HealthTheMostImportantTechTool.md) by [Cassandra Faris (@cassandrafaris)](https://twitter.com/cassandrafaris)
 - [Integrating Junior Developers Into Your Team](talks/RobinClower-IntegratingJuniorDevelopersIntoYourTeam.pdf) by Robin Clower
 - [Measure All the Things](talks/NickMartin-MeasureAllTheThings.zip) by [Nick Martin (@nickoncode)](https://twitter.com/nickoncode)
@@ -22,6 +23,8 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 *Write a review and add a link to it here.*
 
 ### Speaker Instructions
+
+[Quick tutorial on adding files to GitHub repos you don't own](https://ardalis.com/how-to-add-files-to-a-github-repo-you-dont-own)
 
 Please add your supporting materials for your session in a single file in the "Talks" folder. Ideally with no spaces in the filename.
 
