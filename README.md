@@ -11,6 +11,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 - [Accessibility: What is it, Why Care about it, and How to do it](talks/JackMerideth-Accessibility.pdf) by Jack Merideth
 - [ASP.NET Core Ready for Prime Time](talks/JTower-AspNetCorePrimetime.zip) by J Tower
 - [Automation Firehose](talks/ThomasHaver-AutomationFirehose.pdf) by Thomas Haver
+- [Azure Durable Functions for Serverless .NET Orchestration] (talks/ChadGreen-AzureDurableFunctionsForServerlessDotNETOrchestration) by Chad Green
 - [Cloud Design Patterns](talks/SteveSmith-CloudDesignPatterns.pdf) by [Steve Smith (@ardalis)](https://twitter.com/ardalis)
 - Did You Get My Message? ([slides](talks/jack-bennett-did-you-get-my-message-stirtrek-2019-04-26.pdf)) ([demos](talks/jack_bennett_did_you_get_my_message_20190426.zip)) ([screencast](https://youtu.be/LlF9x1MGbSw)) by [Jack Bennett (@jackbennett_co)](https://twitter.com/jackbennett_co)
 - [Event-Driven Architecture, Micro-Services, and the Cloud](talks/ShawnWallace-EventDrivenArchitecture.pdf) by [Shawn Wallace (@shawnwallace)](https://twitter.com/shawnwallace)
