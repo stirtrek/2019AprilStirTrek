@@ -2,7 +2,7 @@
 
 Slides and materials from Stir Trek 2019 Avengers Endgame Edition
 
-All presentations were recorded and will be available on the [Stir Trek YouTube Channel](https://youtube.com/c/stirtrek).
+All presentations were recorded and will be available on the [Stir Trek YouTube Channel](https://youtube.com/c/stirtrek) - [2019 Sessions Playlist](https://www.youtube.com/watch?v=QEcytNfw3hI&list=PLaHMqLt8nxCzqwa2FdixqOGoulRMQRKvs)
 
 # Sessions by Title
 
