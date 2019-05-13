@@ -21,6 +21,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 - [The Hidden Requirements - Exploring Emotions with Placebos](talks/DamianSynadinos-TheHiddenRequirements.pdf) - by Damian Synadinos
 - [Integrating Junior Developers Into Your Team](talks/RobinClower-IntegratingJuniorDevelopersIntoYourTeam.pdf) by Robin Clower
 - [Measure All the Things](talks/NickMartin-MeasureAllTheThings.zip) by [Nick Martin (@nickoncode)](https://twitter.com/nickoncode)
+- [Running Containers in AWS](talks/AndrewMay-RunningContainersInAWS.pdf) by Andrew May
 - [Top 5 Architecture Patterns](talks/JimEverett-5ArchitecturePatterns.pdf) by [Jim Everett](https://twitter.com/CognitiveBurden)
 - [What's New in C#?](talks/BrendanEnrick-NewInCSharp-Slides.pdf) by [Brendan Enrick (@Brendoneus)](https://twitter.com/brendoneus)
 
