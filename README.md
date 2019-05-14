@@ -18,6 +18,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 - [Event-Driven Architecture, Micro-Services, and the Cloud](talks/ShawnWallace-EventDrivenArchitecture.pdf) by [Shawn Wallace (@shawnwallace)](https://twitter.com/shawnwallace)
 - [Health: The Most Important Tech Tool](talks/CassandraFaris-HealthTheMostImportantTechTool.md) by [Cassandra Faris (@cassandrafaris)](https://twitter.com/cassandrafaris)
 - [Hitchhiker's Guide to Rocking Machine Learning in 2019](talks/hitchikers-guide-to-machine-learning.pdf) by [Sho Fola Soboyejo](https://www.linkedin.com/in/shofola/)
+- [One Codebase to Rule Them All - Using React Native Everywhere](https://jesserweigel.github.io/one-codebase-to-rule-them-all/) by [Jesse Weigel (@JesseRWeigel)](https://twitter.com/JesseRWeigel)
 - [The Hidden Requirements - Exploring Emotions with Placebos](talks/DamianSynadinos-TheHiddenRequirements.pdf) - by Damian Synadinos
 - [Integrating Junior Developers Into Your Team](talks/RobinClower-IntegratingJuniorDevelopersIntoYourTeam.pdf) by Robin Clower
 - [Measure All the Things](talks/NickMartin-MeasureAllTheThings.zip) by [Nick Martin (@nickoncode)](https://twitter.com/nickoncode)
