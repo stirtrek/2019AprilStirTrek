@@ -11,4 +11,4 @@ Website: [https://geekygirlsarah.com/raspberrypi](https://geekygirlsarah.com/ras
 
 GitHub:  [https://github.com/geekygirlsarah/talk-intro_to_hacking_raspberry_pi](https://github.com/geekygirlsarah/talk-intro_to_hacking_raspberry_pi)
 
-YouTube Video: [[Stir Trek 2019 Video](https://www.youtube.com/watch?v=24NQKDDuERM)](https://www.youtube.com/watch?v=24NQKDDuERM)
+YouTube Video: [https://www.youtube.com/watch?v=24NQKDDuERM](https://www.youtube.com/watch?v=24NQKDDuERM)
