@@ -12,6 +12,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 - [ASP.NET Core Ready for Prime Time](talks/JTower-AspNetCorePrimetime.zip) by J Tower
 - [Automation Firehose](talks/ThomasHaver-AutomationFirehose.pdf) by Thomas Haver
 - [Azure Durable Functions for Serverless .NET Orchestration](talks/ChadGreen-AzureDurableFunctionsForServerlessDotNETOrchestration) by Chad Green
+- [Building a Mentoring Community Through Live Coding](https://jesserweigel.github.io/livecoding-mentoring-stirtrek2019/) by [Jesse Weigel (@JesseRWeigel)](https://twitter.com/JesseRWeigel)
 - [CI/CD - A Culture Shift](talks/JamesQuick-CICD-Culture-Shift.pdf) by James Quick
 - [Cloud Design Patterns](talks/SteveSmith-CloudDesignPatterns.pdf) by [Steve Smith (@ardalis)](https://twitter.com/ardalis)
 - Did You Get My Message? ([slides](talks/jack-bennett-did-you-get-my-message-stirtrek-2019-04-26.pdf)) ([demos](talks/jack_bennett_did_you_get_my_message_20190426.zip)) ([screencast](https://youtu.be/LlF9x1MGbSw)) by [Jack Bennett (@jackbennett_co)](https://twitter.com/jackbennett_co)
